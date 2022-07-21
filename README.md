@@ -2,10 +2,10 @@
 
 # This Program will take following input
 
-Grid -- A number 
-Initial zombie position -- Array of two numbers following (x,y)
-Human's position in Grid -- Array of Array of two numbers following [(x1,y1), (x2,y2)]
-Movement of zombies -- String (Sequence of ['R','D','L','U']);
+### Grid -- A number 
+### Initial zombie position -- Array of two numbers following (x,y)
+### Human's position in Grid -- Array of Array of two numbers following [(x1,y1), (x2,y2)]
+### Movement of zombies -- String (Sequence of ['R','D','L','U']);
 
 # Input can be taken from the browser but human position limit have been predefined to 3
 
