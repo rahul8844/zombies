@@ -1,0 +1,14 @@
+.d-flex{
+    display: flex;
+    margin: 10px 0px
+}
+
+.d-flex label{
+    width: 50%;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
