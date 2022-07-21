@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zombies/static/css/main.ab8d9621.css",
-    "main.js": "/zombies/static/js/main.ce335dd1.js",
+    "main.js": "/zombies/static/js/main.4b76071f.js",
     "static/js/787.8bbfce8c.chunk.js": "/zombies/static/js/787.8bbfce8c.chunk.js",
     "index.html": "/zombies/index.html",
     "main.ab8d9621.css.map": "/zombies/static/css/main.ab8d9621.css.map",
-    "main.ce335dd1.js.map": "/zombies/static/js/main.ce335dd1.js.map",
+    "main.4b76071f.js.map": "/zombies/static/js/main.4b76071f.js.map",
     "787.8bbfce8c.chunk.js.map": "/zombies/static/js/787.8bbfce8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8d9621.css",
-    "static/js/main.ce335dd1.js"
+    "static/js/main.4b76071f.js"
   ]
 }
