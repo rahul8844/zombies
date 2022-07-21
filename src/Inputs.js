@@ -31,7 +31,7 @@ export  const Inputs = ({handleInput}) =>{
 
     return(
         <>
-            <h2>Please Provide following inputs correctly </h2>
+            <h2>Please provide following inputs correctly </h2>
             <div className='d-flex'>
                 <label>Grid</label>
                 <input type={'number'} value={grid} min={0} onChange={(e)=> setGrid(Number(e.target.value))}></input>
@@ -42,7 +42,7 @@ export  const Inputs = ({handleInput}) =>{
                 <input type={'number'}  placeHolder={'y'} value={zPos[1]} min={0} max={grid-1} onChange={(e)=> setZPos([zPos[0], Number(e.target.value)])}></input>
             </div>
             <div className='d-flex'>
-                <label>{`Humans' Position: `}</label>
+                <label>{`Humans' position: `}</label>
                 <div></div>
             </div>
             {humans.map(val=>(
